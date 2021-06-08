@@ -2,8 +2,6 @@
 
 I'm Tianheng Cheng, pursuing my Ph.D. now and working on Vision, Cognition, and Deep/Machine/Reforcement Learning.
 
-Publications: [Google Scholar](https://scholar.google.com/citations?user=PH8rJHYAAAAJ&hl=zh-CN)
-
 <!--
 **wondervictor/wondervictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
