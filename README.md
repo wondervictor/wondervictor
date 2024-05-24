@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Tianheng Cheng, pursuing my Ph.D. now and working on [Vision](https://marvelcinematicuniverse.fandom.com/wiki/Vision).
+I'm Tianheng Cheng, pursuing my Ph.D. now and working on Computer Vision and Machine Intelligence.
+
+My research goal is to enable machines/robots to **see** and **understand** the world.
 
 Previous works/publications are listed at [Google Scholar 📚](https://scholar.google.com/citations?user=PH8rJHYAAAAJ).
 
-Currently, I'm devoted in the research on **visual-language modeling** and **multimodal models**. Before that, I mainly focused on fundamental tasks such as **object detection** and **instance segmentation**, as well as visual perception for autonomous driving.
+Currently, I'm devoted to research on **visual-language modeling** and **multimodal models**. Before that, I mainly focused on fundamental tasks such as **object detection** and **instance segmentation**, as well as visual perception for autonomous driving.
 
 **Highlighted Works:**
 
