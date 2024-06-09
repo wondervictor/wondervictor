@@ -8,7 +8,7 @@ Previous works/publications are listed at [Google Scholar 📚](https://scholar.
 
 Currently, I'm devoted to research on **visual-language modeling** and **multimodal models**. Before that, I mainly focused on fundamental tasks such as **object detection** and **instance segmentation**, as well as visual perception for autonomous driving.
 
-**Highlighted Works:**
+**Highlighted Works of those pinned works:**
 
 * The latest works 🔥: [YOLO-World (CVPR 2024)](https://github.com/AILab-CVC/YOLO-World) for real-time open-vocabulary object detection; [Symphonies (CVPR 2024)](https://github.com/hustvl/Symphonies) for camera-based 3D scene completion.
 * [SparseInst (CVPR 2022)](https://github.com/hustvl/SparseInst) aims for real-time instance segmentation with a simple fully convolutional framework! [MobileInst (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28555) further explores temporal consistency and kernel reuse for efficient mobile video instance segmentation.
