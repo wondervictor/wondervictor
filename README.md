@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tianheng Cheng, pursuing my Ph.D. now and working on Computer Vision and Machine Intelligence.
+I'm Tianheng Cheng, pursuing (already finished) my Ph.D. at Huazhong University of Science and Technology.
 
 My research goal is to enable machines/robots to **see** and **understand** the world.
 
