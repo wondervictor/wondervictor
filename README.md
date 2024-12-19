@@ -2,7 +2,7 @@
 
 I'm Tianheng Cheng, pursuing (already finished) my Ph.D. at Huazhong University of Science and Technology.
 
-My research goal is to enable machines/robots to **see** and **understand** the world.
+My research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
 
 Previous works/publications are listed at [Google Scholar 📚](https://scholar.google.com/citations?user=PH8rJHYAAAAJ).
 
