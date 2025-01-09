@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 I'm **Tianheng Cheng**, and have finished my Ph.D. career at Huazhong University of Science and Technology.
-I’m going to join Bytedance Seed and begin new research about cutting-edge large multimodal models and world models.
+I’m going to join [ByteDance] Seed](https://team.doubao.com/en/direction/multimodal) and begin new research about cutting-edge large multimodal models and world models.
 
-My life-long research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
+My lifelong research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
 
 Previous works/publications are listed at [Google Scholar 📚](https://scholar.google.com/citations?user=PH8rJHYAAAAJ).
 
-Currently, I'm devoted to research on **large multimodal models**, **foundational visual-language modeling**, and **image generation**. Before that, I mainly focused on fundamental tasks such as **object detection** and **instance segmentation**, as well as visual perception for autonomous driving.
+Currently, I'm devoted to research about **large multimodal models**, **foundational visual-language modeling**, and **image generation**. Before that, I mainly focused on fundamental tasks such as **object detection** and **instance segmentation**, as well as visual perception for autonomous driving.
 
 **Highlighted Works of those pinned works:**
 
