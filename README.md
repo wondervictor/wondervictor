@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I'm **Tianheng Cheng**, and have finished my Ph.D. career at Huazhong University of Science and Technology.
+I’m going to join Bytedance Seed and begin new research about cutting-edge large multimodal models and world models.
 
-My research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
+My life-long research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
 
 Previous works/publications are listed at [Google Scholar 📚](https://scholar.google.com/citations?user=PH8rJHYAAAAJ).
 
