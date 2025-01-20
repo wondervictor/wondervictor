@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm **Tianheng Cheng**, and have finished my Ph.D. career at Huazhong University of Science and Technology.
-I’m now a reseacher at [ByteDance Seed](https://team.doubao.com/en/direction/multimodal) and working on cutting-edge large multimodal models and world models.
+I'm **Tianheng Cheng**, and have finished my Ph.D. career at the [HUST Vision Lab](https://github.com/hustvl) of Huazhong University of Science and Technology.
+I’m now a researcher at [ByteDance Seed Team](https://team.doubao.com/en/direction/multimodal) and working on cutting-edge large multimodal models and world models.
 
 My lifelong research goal is to enable machines/robots to **see**, **understand**, and **live** like human beings.
 
