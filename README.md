@@ -12,7 +12,7 @@ Currently, I'm devoted to research about **large multimodal models**, **foundati
 **Highlighted Works of those pinned works:**
 
 * [ControlAR (ICLR 2025)](https://github.com/hustvl/ControlAR) explores controllable image generation with autoregressive models and empowers autoregressive models with arbitrary-resolution generation.
-* [MaskAdapter (arXiv)](https://github.com/hustvl/MaskAdapter) integrates seamlessly into open-vocabulary segmentation methods based on mask pooling in a plug-and-play manner, delivering more accurate classification results.
+* [MaskAdapter (CVPR 2025)](https://github.com/hustvl/MaskAdapter) integrates seamlessly into open-vocabulary segmentation methods based on mask pooling in a plug-and-play manner, delivering more accurate classification results.
 * [EVF-SAM (arXiv)](https://github.com/hustvl/EVF-SAM) empowers segment-anything (SAM, SAM-2) with the strong text-prompting ability. Try our [demo](https://github.com/hustvl/EVF-SAM) on HuggingFace.
 * [OSP (ECCV 2024)](https://github.com/hustvl/osp) explores sparse set of points to predict 3D semantic occupancy for autonomous vehicles, which is a brand new formulation!
 * [YOLO-World (CVPR 2024)](https://github.com/AILab-CVC/YOLO-World) for real-time open-vocabulary object detection; [Symphonies (CVPR 2024)](https://github.com/hustvl/Symphonies) for camera-based 3D scene completion.
